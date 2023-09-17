@@ -1,0 +1,16 @@
+---
+object: set
+id: 8568648a-da9d-4440-a826-a065266c7a4e
+code: tddj
+name: 'Duel Decks: Izzet vs. Golgari Tokens'
+uri: https://api.scryfall.com/sets/8568648a-da9d-4440-a826-a065266c7a4e
+scryfall_uri: https://scryfall.com/sets/tddj
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atddj&unique=prints
+released_at: '2012-09-07'
+set_type: token
+card_count: 1
+parent_set_code: ddj
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddj.svg?1694404800
